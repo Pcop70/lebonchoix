@@ -9,8 +9,9 @@
     <audio src="https://raw.githubusercontent.com/Pcop70/lebonchoix/master/music/urss.mp3" autoplay loop>
     </audio>
     <header>
+      <img class= "imageBan" src="https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/logoBan.png" alt="">
       <nav>
-        <a href="#"> <img src="https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/logoLBS.png" alt=""> </a>
+        <a href=""> <img src="https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/logoLBS.png" alt=""> </a>
       </nav>
     </header>
     <?php
@@ -20,14 +21,14 @@
       $n = 20;
     }
      ?>
+     <form method="get">
+       <select onchange="window.location.href='test.php?nb_article=' + this[this.selectedIndex].value">
+         <option value="10" <?php if($n==10){printf("selected");} ?>>10
+         <option value="20" <?php if($n==20){printf("selected");} ?>>20
+         <option value="40" <?php if($n==40){printf("selected");} ?>>40
+       </select>
+     </form>
     <div class="corps">
-      <form method="get">
-        <select onchange="window.location.href='test.php?nb_article=' + this[this.selectedIndex].value">
-          <option value="10" <?php if($n==10){printf("selected");} ?>>10
-          <option value="20" <?php if($n==20){printf("selected");} ?>>20
-          <option value="40" <?php if($n==40){printf("selected");} ?>>40
-        </select>
-      </form>
       <?php
         for ($i=0; $i < $n; $i++) {
           printf('<div class="article"><img src="https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/tshirt.jpg" alt="image"><h3>T-Shirt Stylin</h3></div>');
