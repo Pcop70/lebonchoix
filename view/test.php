@@ -11,7 +11,8 @@
     <header>
       <img class= "imageBan" src="https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/logoBan.png" alt="">
       <nav>
-        <a href=""> <img src="https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/logoLBS.png" alt=""> </a>
+        <a href=""> <img src="https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/logoLBS.png" alt="logo"> </a>
+        <a href=""> <img src="http://www.free-icons-download.net/images/shopping-basket-icon-91332.png" alt="panier"> </a>
       </nav>
     </header>
     <?php
@@ -31,7 +32,7 @@
     <div class="corps">
       <?php
         for ($i=0; $i < $n; $i++) {
-          printf('<div class="article"><img src="https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/tshirt.jpg" alt="image"><h3>T-Shirt Stylin</h3></div>');
+          printf('<div class="article"><img src="https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/tshirt.jpg" alt="image"><div><h3>T-Shirt Stylin</h3> <button type="button">Ajouter au panier</button> </div></div>');
         }
        ?>
     </div>
