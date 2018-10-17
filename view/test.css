@@ -1,29 +1,47 @@
 body {
-    background-color: #ec1d1f;
+    background-color: #800000;
+    background-image:url(https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/back.png);
+    background-repeat:no-repeat;
 }
 
 
+.article:hover {
+    border: 2px solid red;
+}
 
 nav {
-  background-color: yellow;
+  background-color: #ffcc00;
+   border-radius: 10px;
 }
 
 .article{
   width: 200px;
-  height: 240px;
   display: inline-block;
-  border: 1px solid #CCC;
+  border: 2px solid #ffcc00;
   margin-left: 5px;
   margin-right: 5px;
   margin-top: 10px;
   vertical-align: top;
+  background-color: #ffcc00;
 }
+
+.article div{
+    display:inline-flex;
+}
+.article button {
+   width: 40%;
+   text-align: center;
+
+    
+}
+
 .article h3 {
 		font-size:small;
 }
 
 .article img {
-	   width: 200px;
+    height: 200px;
+	width: 200px;
 }
 
 nav{
@@ -34,7 +52,10 @@ nav img {
 }
 
 .corps{
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  justify-content: center;
   margin-left: auto;
   margin-right: auto;
 }
