@@ -2,6 +2,8 @@ body {
     background-color: #ec1d1f;
 }
 
+
+
 nav {
   background-color: yellow;
 }
@@ -29,4 +31,16 @@ nav{
 }
 nav img {
   height: 50px;
+}
+
+.corps{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageBan {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
