@@ -1,0 +1,32 @@
+body {
+    background-color: #ec1d1f;
+}
+
+nav {
+  background-color: yellow;
+}
+
+.article{
+  width: 200px;
+  height: 240px;
+  display: inline-block;
+  border: 1px solid #CCC;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  vertical-align: top;
+}
+.article h3 {
+		font-size:small;
+}
+
+.article img {
+	   width: 200px;
+}
+
+nav{
+  height: 50px;
+}
+nav img {
+  height: 50px;
+}
