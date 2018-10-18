@@ -32,7 +32,7 @@
     <div class="corps">
       <?php
         for ($i=0; $i < $n; $i++) {
-          printf('<div class="article"><img src="https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/tshirt.jpg" alt="image"><div><h3>T-Shirt Stylin</h3> <button type="button">Ajouter au panier</button> </div></div>');
+          printf('<div class="article"><img src="https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/tshirt.jpg" alt="image"><div><h3>T-Shirt Stylin</h3> <h4>14.99 ₽</h4><button type="button">Ajouter au panier</button> </div></div>');
         }
        ?>
     </div>

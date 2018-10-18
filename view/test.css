@@ -30,16 +30,32 @@ nav {
 
 .article div{
     display:inline-flex;
+
 }
 .article button {
-   width: 40%;
-   text-align: center;
-
+  position: relative;
+  text-align: center;
+  right: -5px;
+  width: 43%;
 
 }
 
 .article h3 {
-		font-size:small;
+  position: relative;
+  height: 15px;
+  width: 55px;
+  margin: 0px;
+  top: 0px;
+  font-size:small;
+}
+
+.article h4{
+  position: relative;
+  font-size: small;
+  margin: 0px;
+  padding: 0px;
+  width: 55px;;
+
 }
 
 .article img {
