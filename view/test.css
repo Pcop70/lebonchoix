@@ -1,7 +1,10 @@
 body {
     background-color: #800000;
-    background-image:url(https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/back.png);
-    background-repeat:no-repeat;
+    background :url(https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/back.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 
@@ -32,7 +35,7 @@ nav {
    width: 40%;
    text-align: center;
 
-    
+
 }
 
 .article h3 {
