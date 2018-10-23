@@ -1,0 +1,45 @@
+body {
+    background-color: #800000;
+    background :url(https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/back.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  width: 85%;
+  height: 400px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  font-size: 20px;
+  text-align:left;
+}
+
+
+body div div{
+font-size: 20px;
+height: 95%;
+width: 100%;
+}
+nav {
+  background-color: #ffcc00;
+   border-radius: 10px;
+}
+
+nav{
+  height: 50px;
+}
+nav img {
+  height: 50px;
+}
+.imageBan {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
