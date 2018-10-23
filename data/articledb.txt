@@ -1,13 +1,13 @@
-3001021|12.95|Drapeau de l'URSS|Drapeau de l'URSS! 100% guerre froide garantie|drap-urss.png|11
-3001015|12.95|Drapeau du CPPP|Drapeau de CPPP! 100% communiste garantie|drap-cccp.png|11
-3001022|8.65|Livre "Que faire ?"|Edition Science Marxiste|livre-lenine.png|3
-3001026|6.65|Manifeste du parti communiste|Le saint graal! Edition GF-Flammarion|livre-marx.png|3
-3001024|8.95|Livre "CAMARADES"|Edition Perrin|livre-ducoulombier.png|3
-3021025|20.65|T-Shirt Leaders|Les plus grands leaders toujours sur toi|tshirt-alldict.png|21
-3021028|18.95|T-Shirt CCCP|Fier du CPPP!|tshirt-cccp.png|21
-3021022|18.95|T-Shirt CCCP|Pour lutter contre les tsars|tshirt-cccp2.png|21
-3021030|20.95|T-Shirt Lenine|Pour le vrai progrés|tshirt-lenine.png|21
-3021026|20.95|T-Shirt Lenine|Vive la révolution|tshirt-lenine2.png|21
-3021034|29.95|T-Shirt Lenine|Gloire a lénine|tshirt-lenine3.png|21
-3021032|20.59|T-Shirt Stylin'|Gloire a Staline|tshirt-staline.png|21
-3021039|20.59|T-Shirt Super-Communiste|Pour aller sauver les prolétaires|tshirt-superman.png|21
+3001021|12.95|Drapeau de l'URSS|Drapeau de l'URSS! 100/100 guerre froide garantie|drap-urss.png|5|11
+3001015|12.95|Drapeau du CPPP|Drapeau de CPPP! 100/100 communiste garantie|drap-cccp.png|1|11
+3001022|8.65|Livre "Que faire ?"|Edition Science Marxiste|livre-lenine.png|2|3
+3001026|6.65|Manifeste du parti communiste|Le saint graal! Edition GF-Flammarion|livre-marx.png|6|3
+3001024|8.95|Livre "CAMARADES"|Edition Perrin|livre-ducoulombier.png|42|3
+3021025|20.65|T-Shirt Leaders|Les plus grands leaders toujours sur toi|tshirt-alldict.png|3|210
+3021028|18.95|T-Shirt CCCP|Fier du CPPP!|tshirt-cccp.png|45|210
+3021022|18.95|T-Shirt CCCP|Pour lutter contre les tsars|tshirt-cccp2.png|32|210
+3021030|20.95|T-Shirt Lenine|Pour le vrai progrés|tshirt-lenine.png|9|210
+3021026|20.95|T-Shirt Lenine|Vive la révolution|tshirt-lenine2.png|12|210
+3021034|29.95|T-Shirt Lenine|Gloire a lénine|tshirt-lenine3.png|8|210
+3021032|20.59|T-Shirt Stylin'|Gloire a Staline|tshirt-staline.png|3|210
+3021039|20.59|T-Shirt Super-Communiste|Pour aller sauver les prolétaires|tshirt-superman.png|2|210
