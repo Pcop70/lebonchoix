@@ -1,0 +1,94 @@
+body {
+    background-color: #800000;
+    background :url(https://raw.githubusercontent.com/Pcop70/lebonchoix/master/img/back.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.article:hover {
+    border: 2px solid red;
+}
+
+nav {
+  background-color: #ffcc00;
+   border-radius: 10px;
+}
+
+.article{
+  width: 200px;
+  display: inline-block;
+  border: 2px solid #ffcc00;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  vertical-align: top;
+  background-color: #ffcc00;
+}
+
+.article button {
+  position: relative;
+  text-align: center;
+  margin: 0px;
+  left: 110px;
+  bottom: 5px;
+  width: 90px;
+
+}
+
+.article h3 {
+  position: relative;
+  width: 190px;
+  margin: 0px;
+  top: 0px;
+  font-size: 100%;
+}
+
+.article h4{
+  position: relative;
+  margin: 0px;
+  top: 20px;
+  font-size: 100%;
+  width: 60px;;
+
+}
+
+.article img {
+    height: 200px;
+	width: 200px;
+}
+
+nav{
+  height: 50px;
+}
+nav img {
+  height: 50px;
+}
+
+.corps{
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageBan {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nbart *{
+    display: inline;
+}
+.nbart h3 {
+    color:#ffcc00;
+}
+.nbart suivant{
+  color:
+
+}
